@@ -1,1 +1,4 @@
-print("Hello World")
+a = input("выедите текст: ")
+print(f"ваш текст: {a}")
+b = int(input("введите число: "))
+print(f"ваще число: {b}")
