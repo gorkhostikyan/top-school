@@ -1,5 +1,4 @@
-a = input("выедите текст: ")
-print(f"ваш текст: {a}")
-b = int(input("введите число: "))
-print(f"ваще число: {b}")
-print("задание выполнено")
+def greet():
+ print("Hello, world!")
+if __name__ == "__main__":
+ greet()
